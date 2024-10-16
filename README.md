@@ -6,13 +6,7 @@ Bem-vindo ao meu repositório! Sou Leandro ferreira, tenho 18 anos e sou esstuda
 
 Este projeto é focado em listar alguns "codigos" para te ajudar. Abaixo você encontrará informações sobre como clonar, contribuir e uma lista de comandos Git úteis para a comunidade.
 
-## Índice
-
-- [Sobre](#sobre)
-- [Instalação](#instalação)
-- [Comandos Git](#comandos-git)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
+#inicio
 
 
 1. Clone o repositório para sua máquina local:
